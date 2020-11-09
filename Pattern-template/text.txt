@@ -1,0 +1,12 @@
+Detail de la vente:
+Vente id: #78420
+Vente date: 2020-06-16
+Articles
+----------------------------
+stylot ==> 2.0 dhs
+colle ==> 3.0 dhs
+----------------------------
+Total avant remise: 5.0 dhs
+----------------------------
+Total:              3.5 dhs
+----------------------------
